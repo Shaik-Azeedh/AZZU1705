@@ -29,7 +29,4 @@ public class Test01 {
     }
 }
 
-NOTE : Program Must be saved in Test01.java
 
-    compile : javac Test01.java
-    Run     : java Test01
