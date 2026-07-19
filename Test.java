@@ -4,11 +4,12 @@ public class Test {
     int b=30;
     int c =a+b;
     int d =a-b;
+        System.out.println("*******************************************");
         
     System.out.println("the addition of A and B "+c);        
     System.out.println("the addition of A and B "+d);
         
-    
+     System.out.println("*******************************************");
     
     
     }}
