@@ -1,5 +1,3 @@
-
-
 public class AddTwoNumbers {
     public static void main(String[] args) {
          System.out.println("Welcome to java World");
@@ -10,9 +8,9 @@ public class AddTwoNumbers {
         int d = a*b;
         int e = b-a;
         System.out.println("*************************************************");
-        System.out.println("The Addition of a and b is :" +c);
+        System.out.println("The Addition of a and b is         :" +c);
          System.out.println("The Multiplication  of a and b is :" +d);
-         System.out.println("The Subtraction  of b and a is :" +e);
+         System.out.println("The Subtraction  of b and a is    :" +e);
         System.out.println("**************************************************");
     
     }
