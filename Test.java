@@ -16,6 +16,7 @@ System.out.println("The Marks in CHEMISTRY "+CHEMISTRY);
             System.out.println("FAIL")
         
  System.out.println("************CONGRASS**************************");
+            System.out.println("Thanks for watching");
     
     
     }}
