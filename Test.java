@@ -1,7 +1,7 @@
 public class Test {
     public static void main(String[] args) {
-    int MATH =33;
-    int PHYSIC =90;
+    int MATH =90;
+    int PHYSIC =99;
     int CHEMISTRY =80;
     int TOTAL  = MATH+PHYSIC+CHEMISTRY;
 System.out.println("********STUDENT INFORMATION ********************");
