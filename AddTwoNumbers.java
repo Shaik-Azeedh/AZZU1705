@@ -2,8 +2,8 @@ public class AddTwoNumbers {
     public static void main(String[] args) {
          System.out.println("Welcome to java World");
        
-        int a=3000;
-        int b = 5000;
+        int a=30000;
+        int b = 50000;
         int c = a+b;
         int d = a*b;
         int e = b-a;
